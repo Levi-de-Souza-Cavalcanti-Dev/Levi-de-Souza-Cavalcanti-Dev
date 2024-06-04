@@ -1,4 +1,8 @@
 ## Hi, I am Levi Cavalcanti 🙋‍♂️
+<p>Graduando em Ciência da Computação, sempre me atualizando a respeito das novas tecnologias do mercado, bem como outros ramos do TI. Durante meu curso, participo de projetos em equipe o que me proporciona experiência em trabalho colaborativo, comunicação eficiente e resolução de problemas em grupo. 
+
+Sempre em busca de desafios para que eu possa aplicar os conhecimentos adquiridos junto à equipe a qual farei parte, prezando pelo trabalho em conjunto e foco nos resultados. Busco uma vaga de desenvolvedor para iniciar minha carreira na programação que é minha verdadeira paixão.</p>
+
 ### Conecte-se comigo! 
 <a href="levsouza2015@gmail.com">
   <img align="left" alt="Jordan Faustino | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
