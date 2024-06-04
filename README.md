@@ -65,5 +65,5 @@ Sempre em busca de desafios para que eu possa aplicar os conhecimentos adquirido
 [git]: https://git-scm.com/
 [studio]: https://developer.android.com/studio
 
-![Dog Image](https://api.thedogapi.com/v1/images/search)
 
+![snake gif](https://github.com/Levi-de-Souza-Cavalcanti-Dev/Levi-de-Souza-Cavalcanti-Dev/blob/output/github-contribution-grid-snake.gif)
