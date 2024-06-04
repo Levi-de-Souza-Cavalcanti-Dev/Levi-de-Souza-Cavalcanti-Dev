@@ -1,0 +1,34 @@
+name: Update README with Random Dog Image
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Executa a cada hora
+  push:
+    branches:
+      - main  # Também executa ao fazer push na branch main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install Requests
+        run: pip install requests
+
+      - name: Run Update Script
+        run: python update_readme.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update README with new dog image"
+          git push
