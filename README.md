@@ -1,7 +1,7 @@
 ## Hi, I am Levi Cavalcanti 🙋‍♂️
-<p>Graduando em Ciência da Computação, sempre me atualizando a respeito das novas tecnologias do mercado, bem como outros ramos do TI. Durante meu curso, participo de projetos em equipe o que me proporciona experiência em trabalho colaborativo, comunicação eficiente e resolução de problemas em grupo. 
+<p>Computer Science graduate, always up-to-date on new market technologies, as well as other IT branches. During my course, I participate in team projects, which provides me with experience in collaborative work, efficient communication and group problem solving.
 
-Sempre em busca de desafios para que eu possa aplicar os conhecimentos adquiridos junto à equipe a qual farei parte, prezando pelo trabalho em conjunto e foco nos resultados. Busco uma vaga de desenvolvedor para iniciar minha carreira na programação que é minha verdadeira paixão.</p>
+Always looking for challenges so that I can apply the acquired knowledge to the team I will be part of, valuing teamwork and focusing on results. I am looking for a developer vacancy to start my career in programming, which is my true passion.</p>
 
 ### Conecte-se comigo! 
 <a href="levsouza2015@gmail.com">
