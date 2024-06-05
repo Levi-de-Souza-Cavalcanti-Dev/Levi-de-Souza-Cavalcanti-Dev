@@ -19,22 +19,20 @@ Always looking for challenges so that I can apply the acquired knowledge to the 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-de-Souza-Cavalcanti-Dev&layout=compact" style="height: 195px; margin-left: 10px;" />
 </div>
 
-### Languages and Technologies 👨‍💻
+## Languages and Technologies 👨‍💻
 <!-- Editors -->
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="Android Studio" width="26px" src="https://developer.android.com/static/studio/images/new-studio-logo-1_2880.png" />][studio]
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="Android Studio" width="40px" src="https://developer.android.com/static/studio/images/new-studio-logo-1_2880.png" />][studio]
 
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />][react]
-
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />][postgresql]
-[<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />][figma]
-[<img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
+[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
+[<img align="left" alt="react" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />][react]
+[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />][postgresql]
+[<img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
+[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
 
 
 <!-- Vertical Spacer -->
