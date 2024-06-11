@@ -1,7 +1,7 @@
 ## Hi, I am Levi Cavalcanti 🙋‍♂️
-<p>Computer Science graduate, always up-to-date on new market technologies, as well as other IT branches. During my course, I participate in team projects, which provides me with experience in collaborative work, efficient communication and group problem solving.
+<p>Computer Science graduate, always up-to-date on the market technologies news, as well as other IT branches. During my course, I participated in team projects, which provided me with experience in team work, efficient communication and group problem solving.
 
-Always looking for challenges so that I can apply the acquired knowledge to the team I will be part of, valuing teamwork and focusing on results. I am looking for a developer vacancy to start my career in programming, which is my true passion.</p>
+I am always looking for new challenges so that I can apply the acquired knowledge to the team I will be part of, valuing teamwork and focusing on results. I am looking for a developer job to start my career path as a software developer, which is my true passion.</p>
 
 ### Connect with me!
 <a href="mailto:levsouza2015@gmail.com">
