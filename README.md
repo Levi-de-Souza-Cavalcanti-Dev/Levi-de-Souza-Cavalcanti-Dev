@@ -4,7 +4,7 @@
 Always looking for challenges so that I can apply the acquired knowledge to the team I will be part of, valuing teamwork and focusing on results. I am looking for a developer vacancy to start my career in programming, which is my true passion.</p>
 
 ### Connect with me!
-<a href="levsouza2015@gmail.com">
+<a href="mailto:levsouza2015@gmail.com">
   <img align="left" alt="Levi Cavalcanti | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 <a href="https://www.linkedin.com/in/levi-cavalcanti-b8b571230/">
