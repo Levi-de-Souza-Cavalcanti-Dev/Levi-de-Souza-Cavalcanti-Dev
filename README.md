@@ -7,10 +7,10 @@ Always looking for challenges so that I can apply the acquired knowledge to the 
 <a href="levsouza2015@gmail.com">
   <img align="left" alt="Levi Cavalcanti | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
-<a href="(https://www.linkedin.com/in/levi-cavalcanti-b8b571230/)">
+<a href="https://www.linkedin.com/in/levi-cavalcanti-b8b571230/">
   <img align="left" alt="Levi Cavalcanti | LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
-<a href="(https://www.instagram.com/levis.oi?igsh=MWgxNzN6cTJsbWxkdQ==)">
+<a href="https://www.instagram.com/levis.oi?igsh=MWgxNzN6cTJsbWxkdQ==">
   <img align="left" alt="Levi Cavalcanti | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
 </a><br><br>
 
